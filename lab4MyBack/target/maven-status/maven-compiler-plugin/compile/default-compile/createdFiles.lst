@@ -1,0 +1,12 @@
+controllers/RegistrationController.class
+ejb/Registration.class
+domain/DotData.class
+controllers/AuthenticationController.class
+domain/UserData.class
+ejb/Authentication.class
+controllers/DotRecordController.class
+controllers/AreaCheckerController.class
+util/Encryptor.class
+controllers/ApplicationController.class
+ejb/UserDataService.class
+ejb/DotDataService.class

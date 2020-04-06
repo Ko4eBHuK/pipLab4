@@ -1,0 +1,12 @@
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/ejb/Registration.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/domain/DotData.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/controllers/DotRecordController.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/controllers/AuthenticationController.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/domain/UserData.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/ejb/UserDataService.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/ejb/DotDataService.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/controllers/ApplicationController.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/ejb/Authentication.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/controllers/AreaCheckerController.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/util/Encryptor.java
+/home/maverick/Desktop/web_dev/lab4MyBack/src/main/java/controllers/RegistrationController.java
