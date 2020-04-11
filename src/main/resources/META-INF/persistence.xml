@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence
+ http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd">
+    <persistence-unit name="DataUnit" transaction-type="RESOURCE_LOCAL">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>domain.DotData</class>
+        <class>domain.UserData</class>
+        <properties>
+            <property name="javax.persistence.schema-generation.database.action" value="create"/>
+            <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:9999/studs"/>
+            <property name="javax.persistence.jdbc.user" value="s289633"/>
+            <property name="javax.persistence.jdbc.password" value="uqt316"/>
+        </properties>
+    </persistence-unit>
+</persistence>
